@@ -24,3 +24,9 @@ How would a business or a community (for Social Impact Projects) benefit from yo
 Be specific. Think money saved, process improves, better decisions made
 That’s your real value
 -
+
+How will you deploy your project
+- Lovable : https://lovable.dev/
+- Firebase Studio : https://firebase.studio/
+- GitHub Pages :https://pages.github.com/
+
